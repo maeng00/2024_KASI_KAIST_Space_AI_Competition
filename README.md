@@ -1,8 +1,9 @@
-<img src="https://github.com/user-attachments/assets/5ab779b6-ab38-474e-92a4-e481ea11f639" width="100%"/>
+# [Total 1st 태양상 수상] 2024 제1회 한국천문연구원-카이스트 천문우주 AI 경진대회 (우쭈쭈팀)
+
+<img src="https://github.com/user-attachments/assets/5ab779b6-ab38-474e-92a4-e481ea11f639" width="80%"/>
 <br />
 <br />
 
-# ☀️[Total 1st 태양상 수상] 2024 제1회 한국천문연구원-카이스트 천문우주 AI 경진대회 (우쭈쭈팀)☀️
 - "2024 제1회 한국천문연구원-카이스트 천문우주 AI 경진대회" 태양상 수상 🏆
     - 한국천문연구원 · 카이스트 SW교육센터 주관
     - "천문연, 천문우주AI 경진대회···1위 상명대, 2위 KAIST" (https://www.hellodd.com/news/articleView.html?idxno=105351)
